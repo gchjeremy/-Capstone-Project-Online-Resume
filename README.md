@@ -1,2 +1,2 @@
-# -Capstone-Project-Online-Resume
+# Capstone-Project-Online-Resume
 Work-in-Progress. Created with HTML.
